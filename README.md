@@ -1,6 +1,6 @@
 Hello! I'm a Self-Taught Coding Enthusiast -- Welcome to my GitHub profile!
 
-I'm Landolakes, and I'm diving headfirst into the world of web development. Currently, I'm focusing on HTML, CSS, and JavaScript as I build my skills and embark on this exciting journey. Here's a bit about me and what you can find on my profile:
+I'm Landolakes, and i'm active duty Navy, but i'm diving headfirst into the world of web development. Currently, I'm focusing on HTML, CSS, and JavaScript as I build my skills and embark on this exciting journey. Here's a bit about me and what you can find on my profile:
 
 About Me
 
@@ -24,7 +24,7 @@ Feel free to check out my repositories and leave feedback. I’m always open to 
 
 Thanks for stopping by, and happy coding! 
 
--JL <3
+-JL
 <!---
 Jaylandolakes/Jaylandolakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
