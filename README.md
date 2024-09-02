@@ -24,7 +24,7 @@ Feel free to check out my repositories and leave feedback. I’m always open to 
 
 Thanks for stopping by, and happy coding! 
 
--JL
+-JL <3
 <!---
 Jaylandolakes/Jaylandolakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
