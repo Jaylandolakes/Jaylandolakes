@@ -6,7 +6,7 @@ Here's a bit about me and what you can find on my profile:
 
 About Me
 
-- Learning Path: I’m self-teaching myself web development with a passion for creating interactive and visually appealing websites.
+- Learning Path: I’m self-teaching myself via The Odin Project for web development with a passion for creating interactive and visually appealing websites.
 
 - Current Focus: HTML for structuring content, CSS for styling, and JavaScript for adding dynamic functionality.
 
